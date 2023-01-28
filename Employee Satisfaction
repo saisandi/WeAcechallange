@@ -1,0 +1,28 @@
+
+1.Front-end:
+Develop a user interface (UI) that prompts a series of questions to the employee.
+The questions should cover various aspects of an employee's job satisfaction such as job role, work-life balance, communication with colleagues and management, opportunities for growth, etc.
+Provide a rating scale (e.g. 1-5, 1-10) for each question so that the employee can provide a numerical value for their satisfaction level.
+2.Back-end:
+Create a database to store the employee's answers to the survey questions.
+Develop a script that processes the data and generates relevant reports.
+The reports should provide an overall employee satisfaction index as well as a breakdown of the satisfaction levels for each question.
+3.Reports:
+Create a dashboard that displays the employee satisfaction index and the breakdown of satisfaction levels for each question.
+Allow the user to filter the data by department, job role, or other attributes.
+Allow the user to download the report in various formats (e.g. PDF, Excel).
+4.Security:
+Implement authentication and authorization to ensure that only authorized users can access the application and the data.
+Encrypt the data stored in the database to protect against unauthorized access.
+5.Maintenance:
+Regularly update the questions to keep the survey relevant and to ensure that it continues to provide useful insights into employee satisfaction.
+Monitor the performance of the application and fix any issues that arise.
+6.Deployment:
+Deploy the application on a web server so that it can be accessed by employees from any location.
+
+Tolls Required : 
+
+ front end : Html,css,java script
+ server side : java
+ datbase : Mysql, mangodb
+ testcase : Junit,Mockito
